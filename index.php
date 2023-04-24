@@ -11,3 +11,5 @@ printf("Tomorrow in New York will be %s.\n", Carbon::tomorrow('US/Eastern')->for
 printf("Right now in Paris is %s\n", Carbon::now('Europe/Paris'));
 
 printf("Right now in Helsinki is %s\n", Carbon::now('Europe/Helsinki'));
+
+printf("Second update after bug fixes");
